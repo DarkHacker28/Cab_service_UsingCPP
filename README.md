@@ -1,7 +1,5 @@
 # Cab_service_UsingCPP
  
-Cab Service Management System
- 
 # Overview :
 
 The Cab Service Management System is a comprehensive solution designed to streamline the management of cab services. Built using C#, Java, APIs, and ASP.NET (.aspx), this system is equipped with both web-based and app-based interfaces. It simplifies operations for managers, drivers, and service administrators, ensuring an efficient and user-friendly experience for all stakeholders.
