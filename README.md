@@ -113,11 +113,17 @@ Drivers can accept rides, and customers can book rides directly from the app.
 # Folder Structure :
 
 project-root/
+
 ├── backend/                # C# and API logic
+
 ├── frontend/               # ASP.NET .aspx pages
+
 ├── mobile_app/             # Java-based app source code
+
 ├── database/               # SQL scripts for database setup
+
 ├── docs/                   # Documentation and guides
+
 ├── README.md               # Project overview
 
 # Contributions :
